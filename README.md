@@ -11,7 +11,7 @@ Olá, professor! Seja bem-vindo ao nosso projeto do primeiro Checkpoint de Front
 - Gabriel Henrique Padula
 - Vitor Couto Victorino
 - Enzo Gaião Real
-- Gabriel Henrique Padula
+- Gustavo Pasquini Lucas
 
 ## Descrição
 
